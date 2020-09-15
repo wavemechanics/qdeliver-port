@@ -1,6 +1,6 @@
-TIMESTAMP = 1595405953
-SHA256 (wavemechanics-qdeliver-g20200722-9c776c9_GH0.tar.gz) = 31e9c61eddafbf748f9fc480ac62bb8388b54a1e7e1010fd22b5ffb59ffa3cc4
-SIZE (wavemechanics-qdeliver-g20200722-9c776c9_GH0.tar.gz) = 18340
+TIMESTAMP = 1600176285
+SHA256 (wavemechanics-qdeliver-g20200915-aeedec5_GH0.tar.gz) = d1bb2d3c3f1e6c8e5ac05f45ca9848a44154bf541816aec94510f997196c191e
+SIZE (wavemechanics-qdeliver-g20200915-aeedec5_GH0.tar.gz) = 18536
 SHA256 (golang-net-ab3426394381_GH0.tar.gz) = ddf23e17a147972ad0dd11824a912eaa0174cba60ab63da6ae6ced2c76345946
 SIZE (golang-net-ab3426394381_GH0.tar.gz) = 1177700
 SHA256 (wavemechanics-etype-v0.0.1_GH0.tar.gz) = 41a23916595e7d4fea32d41d61d00e4b6d75cb55e10e461d6fcd2acb3908e548

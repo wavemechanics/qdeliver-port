@@ -2,7 +2,7 @@
 
 This repo integrates [qdeliver](https://github.com/wavemechanics/qdeliver) into the FreeBSD ports system.
 
-The contents of this repo should be visible under `/usr/local/ports/mail/qdeliver`.
+The contents of this repo should be visible under `/usr/ports/mail/qdeliver`.
 
 Most of the time the ports tree is owned by root, so you may not be able to directly clone this repo into the ports directory.
 
