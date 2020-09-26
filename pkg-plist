@@ -1,1 +1,4 @@
 libexec/qdeliver
+man/man8/qdeliver.8.gz
+%%EXAMPLESDIR%%/qdeliver-handler.sh
+%%EXAMPLESDIR%%/qdeliver-notify.sh
